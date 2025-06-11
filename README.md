@@ -1,5 +1,5 @@
 # Set up
-1. installeer uv
+1. installeer [uv](https://docs.astral.sh/uv/getting-started/installation/)
 2. download en ga naar deze map
 3. run het volgende commando, afhankelijk van het platform:
 
